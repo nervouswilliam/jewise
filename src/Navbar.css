@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita:ital,wght@1,700&display=swap');
+
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #171717;
+    color: white;
+    padding: 15px 7%;
+}
+.logo{
+    font-size: 64px;
+    font-family: 'Sansita', sans-serif;
+    background-color: #171717;
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+    background-color: #171717;
+    display: flex;
+}
+
+ul li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #171717;
+    font-size: 36px;
+}
+
+ul li a{
+    color:white;
+    text-decoration: none;
+    background-color: #171717;
+    margin: 50px;
+}
+
+.nav a{
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+}
+
+.hireMe{
+    color:white;
+    background-color: #0047FE;
+    size: 10px;
+    height: 61px;
+    width: 133px;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 12px;
+}

@@ -1,0 +1,50 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.intro{
+    padding-top: 10%;
+    padding-left: 6%;
+    display: inline-flex;
+    font-size: 40px;
+    color: white;
+}
+
+.name{
+    display: inline-flex;
+    font-size: 40px;
+    color: #0047FD;
+    padding: 30px;
+}
+
+.role{
+    padding-left: 6%;
+    font-size: 40px;
+    color: white;
+}
+
+.description{
+    padding-top: 6%;
+    padding-left: 6%;
+    font-size: 37px;
+    color: white;
+    font-stretch: condensed;
+    margin: 0%
+}
+
+br {
+    display: none;
+}
+
+.myPicture{
+    height: 300px;
+    width: 200px;
+    position: fixed;
+    top: 14%;
+    right: 16%;
+}
+
+.myPicture img{
+    height: 300%;
+    width: auto;
+}
