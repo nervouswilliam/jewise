@@ -2,6 +2,7 @@
 
 .navbar{
     width: 100%;
+    height: 5vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -10,35 +11,37 @@
     padding: 15px 7%;
 }
 .logo{
-    font-size: 64px;
+    font-size: 2rem;
     font-family: 'Sansita', sans-serif;
     background-color: #171717;
     text-decoration: none;
     color: white;
+    font-size: 3vw;
 }
 
 ul{
-    flex: 1;
+    width: 100%;
+    flex-wrap: wrap;
     list-style: none;
     text-align: center;
     background-color: #171717;
     display: flex;
+    justify-content: center;
 }
 
 ul li{
     display: inline-block;
-    margin: 10px 20px;
-    font-size: 18px;
+    margin: 1vw 1.5vw;
     cursor: pointer;
     background-color: #171717;
-    font-size: 36px;
 }
 
 ul li a{
     color:white;
     text-decoration: none;
     background-color: #171717;
-    margin: 50px;
+    margin: 1vw;
+    font-size: 2vw;
 }
 
 .nav a{
@@ -49,14 +52,19 @@ ul li a{
     padding: 10px;
 }
 
+.nav a:hover{
+    background-color: white;
+    color:black;
+}
+
 .hireMe{
     color:white;
     background-color: #0047FE;
     size: 10px;
-    height: 61px;
-    width: 133px;
-    font-size: 36px;
+    height: 3vw;
+    width: 6vw;
+    font-size: 1vw;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    border-radius: 12px;
+    border-radius: 1vw;
 }
