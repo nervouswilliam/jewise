@@ -40,13 +40,13 @@ br {
 .myPicture{
     height: 15vw;
     width: auto;
-    position: fixed;
+    position: absolute;
     top: 6.2vw;
     right: 2vw;
 }
 
 .myPicture img{
-    height: 300%;
+    height: 44.78vw;
     width: auto;
 }
 

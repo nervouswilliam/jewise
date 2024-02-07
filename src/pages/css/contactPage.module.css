@@ -1,0 +1,95 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contactTitle{
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    margin-top: 3vw;
+}
+
+.title1{
+    color: white;
+}
+
+.title2{
+    color: #0047FD;
+}
+
+.contactMethods{
+    display: flex;
+    margin-top: 8vw;
+}
+
+.phoneContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 6vw;
+}
+
+.phoneContainer img{
+    width: 12vw;
+    height: auto;
+}
+
+.phoneNumber{
+    color: white;
+    margin-top: 2vw;
+    font-size: 1.1vw;
+}
+
+.dateContact{
+    color: #848484;
+    margin-top: 1vw;
+    font-size: 1.8vw;
+}
+
+.houseContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 11vw;
+}
+
+.houseContainer img{
+    width: 18vw;
+    height: auto;
+}
+
+.houseLocation{
+    color: white;
+    margin-top: 2vw;
+    font-size: 1.1vw;
+}
+
+.specificLocation{
+    color: #848484;
+    margin-top: 1vw;
+    font-size: 1.8vw;
+}
+
+.emailContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 8vw;
+}
+
+.emailContainer img{
+    width: 20vw;
+    height: auto;
+}
+
+.email{
+    color: white;
+    margin-top: 2vw;
+    font-size: 1.1vw;
+}
+
+.contactMe{
+    color: #848484;
+    margin-top: 1vw;
+    font-size: 1.8vw;
+}
