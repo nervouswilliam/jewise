@@ -13,7 +13,7 @@ const homePage = () => {
         </div>
 
         <div className={styles.role}>
-            <h1>a full-Stack Developer</h1>
+            <h1>a Full-Stack Developer</h1>
         </div>
 
         <div className={styles.description}>
@@ -26,6 +26,28 @@ const homePage = () => {
 
         <div className= {styles.myPicture}>
             <img src = "../pictures/williamHomePage.png"/>
+        </div>
+
+        <div className= {styles.socialMediaIcons}>
+            <a href = "https://www.linkedin.com/in/jeremiah-william-sebastian-5ab68b117/" target='blank' rel='noopener noreferrer'>
+                <div className= {styles.linkedinImg}>
+                    <img src = "../pictures/linkedinLogo.png"/>
+                </div>
+            </a>
+            
+            <a href = "https://github.com/nervouswilliam" target='blank' rel='noopener noreferrer'>
+                <div className= {styles.githubImg}>
+                    <img src= "../pictures/githubLogo.png"/>
+                </div>
+            </a>
+
+            <a href = "https://www.instagram.com/jeremiahwilliam27?igsh=MWpzdzFtNXprb3owNQ%3D%3D&utm_source=qr" target='blank' rel='noopener noreferrer'>
+                <div className= {styles.instagramImg}>
+                    <img src= "../pictures/instagramLogo.png"/>
+                </div>
+            </a>
+
+
         </div>
     </>
   )

@@ -17,6 +17,12 @@
     text-decoration: none;
     color: white;
     font-size: 3vw;
+    transition: 0.5s;
+}
+
+.logo:hover{
+    background-color: white;
+    color:black;
 }
 
 ul{
@@ -42,6 +48,12 @@ ul li a{
     background-color: #171717;
     margin: 1vw;
     font-size: 2vw;
+    transition: 0.5s;
+}
+
+ul li a:hover{
+    background-color: white;
+    color:black;
 }
 
 .nav a{
@@ -50,11 +62,6 @@ ul li a{
     height: 100%;
     display: flex;
     padding: 10px;
-}
-
-.nav a:hover{
-    background-color: white;
-    color:black;
 }
 
 .hireMe{

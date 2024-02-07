@@ -249,7 +249,7 @@
 }
 
 .blueBarCSS{
-    width: 85%;
+    width: 75%;
     height: 100%;
     position: absolute;
     background-color: #0047FD;
@@ -286,7 +286,7 @@
 }
 
 .blueBarReact{
-    width: 85%;
+    width: 89%;
     height: 100%;
     position: absolute;
     background-color: #0047FD;
@@ -322,7 +322,7 @@
 }
 
 .blueBarPHP{
-    width: 85%;
+    width: 70%;
     height: 100%;
     position: absolute;
     background-color: #0047FD;

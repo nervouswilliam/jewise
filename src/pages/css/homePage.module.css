@@ -49,3 +49,32 @@ br {
     height: 300%;
     width: auto;
 }
+
+.socialMediaIcons{
+    display: inline-flex;
+}
+
+.linkedinImg img{
+    /* display: inline-flex; */
+    height: 5vw;
+    width: auto;
+    padding-left: 5vw;
+    margin-top: 2vw;
+}
+
+.githubImg img{
+    /* display: inline-flex; */
+    height: 5vw;
+    width: auto;
+    padding-left: 2vw;
+    margin-top: 2vw;
+}
+
+.instagramImg img{
+    height: 8vw;
+    width: auto;
+    margin-top: 0.5vw;
+    padding-left: 1.5vw;
+    
+}
+

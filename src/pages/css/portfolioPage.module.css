@@ -1,0 +1,120 @@
+.titlePortfolio{
+    display: inline-flex;
+    align-items: center;
+    font-size: 2vw;
+    margin-top: 3vw;
+    padding-left: 43vw;
+}
+
+.title1{
+    color: white;
+}
+
+.title2{
+    color: #0047FD;
+}
+
+.openingPhrase{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.7vw;
+    margin-top: 10vw;
+}
+
+.merciBigPic img{
+    width: 90vw;
+    height: auto;
+    padding-left: 2vw;
+    margin-top: 10vw;
+}
+
+.smallPicContainer{
+    display: inline-flex;
+    margin-top: 5vw;
+}
+
+.smallPic1 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 2vw;
+    transition: 2s;
+}
+
+.smallPic1 img:hover{
+    transform: scale(1.1);
+}
+
+.smallPic2 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 10vw;
+    transition: 2s;
+}
+
+.smallPic2 img:hover{
+    transform: scale(1.1);
+}
+
+.smallPicContainer2{
+    display: inline-flex;
+    margin-top: 3vw;
+}
+
+
+.smallPic3 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 2vw;
+    transition: 2s;
+}
+
+.smallPic3 img:hover{
+    transform: scale(1.1);
+}
+
+.smallPic4 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 10vw;
+    transition: 2s;
+}
+
+.smallPic4 img:hover{
+    transform: scale(1.1);
+}
+
+.vorskinsBigPic img{
+    width: 90vw;
+    height: auto;
+    margin-left: 6vw;
+    margin-top: 10vw;
+}
+
+.vorskinsSmallPicContainer{
+    margin-top: 5vw;
+    display: inline-flex;
+    padding-bottom: 10vw;
+}
+
+.vorskinsSmallPic1 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 6vw;
+    transition: 2s;
+}
+
+.vorskinsSmallPic1 img:hover{
+    transform: scale(1.1);
+}
+
+.vorskinsSmallPic2 img{
+    width: 39vw;
+    height: auto;
+    margin-left: 12vw;
+    transition: 2s;
+}
+
+.vorskinsSmallPic2 img:hover{
+    transform: scale(1.1);
+}
